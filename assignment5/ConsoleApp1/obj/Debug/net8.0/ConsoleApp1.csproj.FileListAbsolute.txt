@@ -1,0 +1,14 @@
+E:\code\软件构造基础\assignment5\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\code\软件构造基础\assignment5\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\code\软件构造基础\assignment5\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\code\软件构造基础\assignment5\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\code\软件构造基础\assignment5\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\code\软件构造基础\assignment5\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
